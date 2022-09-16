@@ -6,7 +6,7 @@
 
 Projeto construído na maratona Scilore
 
-[Clique aque para acessar](https://misacvaz.github.io/maratona-scisplore3/)
+[Clique aque para acessar](https://misacvaz.github.io/maratona-scisplore/)
 
 ## Tecnologias
 
